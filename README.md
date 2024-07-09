@@ -1,7 +1,7 @@
 # Análisis histórico de ventas en unidades de videojuegos por categoría y región
 
 
-Proyecto del curso ofrecido por Datdata en Udemy - [Curso Power BI de lo Basico a lo Intermedio / Johan Tapia)
+Proyecto del curso ofrecido por Johan Tapia - [Curso Power BI de lo Basico a lo Intermedio / Johan Tapia)
 
 
 Se inicia con un Dataset un tanto desordenado en cuanto a las columnas de los totales de ventas por region
